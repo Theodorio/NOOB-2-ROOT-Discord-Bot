@@ -36,7 +36,7 @@ A feature-rich Discord bot for gamified learning, quizzes, community engagement,
 
 1. **Clone the repository:**
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/Theodorio/NOOB-2-ROOT-Discord-Bot.git
    ```
 2. **Install dependencies:**
    ```
